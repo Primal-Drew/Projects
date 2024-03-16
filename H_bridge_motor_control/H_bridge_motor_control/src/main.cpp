@@ -1,9 +1,9 @@
 #include <Arduino.h>
 #include "drivers/h_bridge.h"
 
-#define enA 5
-#define in1 14
-#define in2 13
+#define enA D5
+#define in1 D6
+#define in2 D7
 
 h_bridge motor_A = {enA, in1, in2};
 

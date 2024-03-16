@@ -28,3 +28,19 @@ Blink_LED/lib/README
 Blink_LED/include/README
 Blink_LED/.vscode/extensions.json
 Blink_LED/.gitignore
+Wifi_server/test/README
+Wifi_server/lib/README
+Wifi_server/include/README
+Wifi_server/.vscode/extensions.json
+Wifi_server/.gitignore
+.gitignore
+motor_control/test/README
+motor_control/lib/README
+motor_control/include/README
+motor_control/.vscode/extensions.json
+motor copy/src/drivers/motor_control.h
+motor copy/src/drivers/motor_control.h
+esp_server/.vscode/extensions.json
+esp_server/include/README
+esp_server/lib/README
+esp_server/test/README
